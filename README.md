@@ -1,5 +1,7 @@
 # Shops
 
+Project Status: Ongoing
+
 The app is basically a map view that annotates shops, shops are annotated by importing data from a json file, programming lanuguage is Swift.
 
 The main focus of this project is just playing around and learning SwiftUI, MapKit, data handling and parsing.
